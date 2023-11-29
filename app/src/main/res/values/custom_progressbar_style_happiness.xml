@@ -1,0 +1,7 @@
+<resources>
+    <style name="CustomProgressBarStyleHappiness" parent="@android:style/Widget.ProgressBar.Horizontal">
+        <item name="android:progressDrawable">@drawable/pgbarhappiness</item>
+        <item name="android:minHeight">30dp</item>
+        <item name="android:maxHeight">30dp</item>
+    </style>
+</resources>
